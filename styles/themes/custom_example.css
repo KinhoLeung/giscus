@@ -50,12 +50,12 @@ main {
     --color-btn-primary-border: rgb(240 246 252 / 10%);
   --color-btn-primary-shadow: 0 0 transparent;
   --color-btn-primary-inset-shadow: 0 0 transparent;
-    --color-btn-primary-hover-bg: #388bfd;
+    --color-btn-primary-hover-bg: #63B3FF;
     --color-btn-primary-hover-border: rgb(240 246 252 / 10%);
     --color-btn-primary-selected-bg: #63B3FF;
   --color-btn-primary-selected-shadow: 0 0 transparent;
     --color-btn-primary-disabled-text: rgb(255 255 255 / 50%);
-    --color-btn-primary-disabled-bg: rgb(31 111 235 / 60%);
+    --color-btn-primary-disabled-bg: #63B3FF;
     --color-btn-primary-disabled-border: rgb(240 246 252 / 10%);
     --color-action-list-item-default-hover-bg: rgb(177 186 196 / 12%);
     --color-segmented-control-bg: rgb(110 118 129 / 10%);
@@ -73,8 +73,8 @@ main {
     --color-neutral-muted: rgb(110 118 129 / 40%);
     --color-accent-fg: #7CB3EB;
     --color-accent-emphasis: #63B3FF;
-    --color-accent-muted: rgb(56 139 253 / 40%);
-  --color-accent-subtle: rgb(56 139 253 / 10%);
+    --color-accent-muted: rgb(99 179 255 / 40%);
+  --color-accent-subtle: rgb(99 179 255 / 10%);
     --color-success-fg: #7CB3EB;
     --color-attention-fg: #d29922;
     --color-attention-muted: rgb(187 128 9 / 40%);
